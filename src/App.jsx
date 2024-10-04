@@ -1,9 +1,9 @@
 import { Login } from './Login';
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import CerrarSesion from './screens/CerrarSesion.jsx';
-import Planilla from './screens/Planilla.jsx';
-import Datos from './screens/Datos.jsx';
+import CerrarSesion from './scren/CerrarSesion.jsx';
+import Planilla from './scren/Planilla.jsx';
+import Datos from './scren/Datos.jsx';
 import Navegacion from './components/Navegacion.jsx';
 
 
